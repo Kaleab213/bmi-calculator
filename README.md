@@ -4,7 +4,7 @@ A new Flutter project.
 
 # My Goal 
 
-The objective of this tutorial was to look at how I can customise Flutter Widgets to achieve my own beautiful user interface designs. 
+The objective of this project was to look at how I can customise Flutter Widgets to achieve my own beautiful user interface designs. 
 
 # What I have created 
 
