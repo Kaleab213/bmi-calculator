@@ -8,7 +8,7 @@ The objective of this project was to look at how I can customise Flutter Widgets
 
 # What I have created 
 
-I made a Body Mass Index Calculator inspired by the beautiful designs made by Ruben Vaalt. It will be a multi screen app with simple functionality but full-on custom styling.
+I made a Body Mass Index Calculator inspired by the beautiful designs made by Ruben Vaalt. It is a multi screen app with simple functionality but full-on custom styling.
 
 # What I have learned
 
